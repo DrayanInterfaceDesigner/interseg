@@ -1,0 +1,2 @@
+# interseg
+segment intersection studies
